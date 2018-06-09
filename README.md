@@ -11,3 +11,14 @@ Game loads automatically. Click on cards to reveal them. Scoring is calculated l
 - 1 star up to 22 moves.
 
 Hope you like it :)
+
+# The .zip file contains:
+- README.md
+- index.html
+- folder css:
+  - app.css
+- folder img:
+  - geometry2.png
+- folder js:
+  - app.js
+  
