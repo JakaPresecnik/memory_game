@@ -3,8 +3,8 @@
   - It is the 5th and final project for IPND.
 - Starter code was provided here :https://github.com/udacity/fend-project-memory-game
   - Starter code was overhauled by me.
-  
-# How to play:
+- Live version here: http://jakapresecnik.me.uk/memory_game/index.html
+## How to play:
 Game loads automatically. Click on cards to reveal them. Scoring is calculated like this:
 - 3 stars up to 15 moves
 - 2 stars up to 18 moves
@@ -12,7 +12,7 @@ Game loads automatically. Click on cards to reveal them. Scoring is calculated l
 
 Hope you like it :)
 
-# The .zip file contains:
+## The .zip file contains:
 - README.md
 - index.html
 - folder css:
