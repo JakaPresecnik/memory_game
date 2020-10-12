@@ -1,4 +1,4 @@
-# [MEMORY GAME] (https://jakapresecnik.github.io/memory_game/) 
+# [MEMORY GAME](https://jakapresecnik.github.io/memory_game/) 
 - This game was made as a part of **Udacity**'s **Intro to Programming** Nanodegree (IPND).
   - It is the 5th and final project for IPND.
   - It is also 5th project for FEND.
